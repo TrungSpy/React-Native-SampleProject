@@ -1,14 +1,20 @@
 # React-Native-SampleProject
 
 ### Set up the development environment
-//Node.js
+//Node.js  
+```
 $ brew install node
 $ brew install watchman
+```
 
-//react-native-cli
+//react-native-cli  
+```
 $ npm uninstall react-native-cli -g
 $ npm install npm@latest -g
 $ npm install react-native-cli -g
+```
 
-// create a react-native sample project
+// create a react-native sample project  
+```
 $ react-native init ProjectName
+```
